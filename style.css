@@ -31,4 +31,10 @@ img {
     #topnav .highlighted-btn:active {
       background-color: #085394; }
 
+#search-container {
+  margin-top: 30px;
+  margin-bottom: 10px; }
+  #search-container form {
+    margin: auto; }
+
 /*# sourceMappingURL=style.css.map */
